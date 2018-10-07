@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2018-07-24T19:11:29+07:00
-draft: true
+draft: false
 ---
 
 PT Asialing Pipa Indonesia adalah perusahaan distributor pipa PVC dengan standard Schedule 80, valve PVC dengan standard ANSI dan sambungan pipa PVC untuk pipa PVC schedule 80.

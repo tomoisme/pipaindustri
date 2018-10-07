@@ -2,7 +2,7 @@
 title: "Pipa PVC Ipex - PT Asialing Pipa Indonesia"
 date: 2018-07-26T18:55:53+07:00
 draft: false
-layout: "index"
+layout: "single"
 ---
 
 #original brosur
