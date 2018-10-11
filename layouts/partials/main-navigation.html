@@ -5,7 +5,14 @@
             <ul class="dropdown-menu">
                 <li><a href="{{ .Site.BaseURL }}pipa-pvc-ipex">Pipa PVC IPEX</a></li>
                 <li><a href="{{ .Site.BaseURL }}pipa-cpvc-ipex">Pipa CPVC IPEX</a></li>
-                <li><a href="{{ .Site.BaseURL }}lem-pvc-weld-on">Lem Weld On</a></li>
+                <li class="dropdown">
+                    <a href="#">Lem Weld On</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="{{ .Site.BaseURL }}lem-weld-on/p70-primer">P70 Primer</a></li>
+                        <li><a href="{{ .Site.BaseURL }}lem-weld-on/p717-pvc">P717 PVC</a></li>
+                        <li><a href="{{ .Site.BaseURL }}lem-weld-on/p724-cpvc">P724 CPVC</a></li>
+                    </ul>
+                </li>
             </ul>
         </li>
         <li class="dropdown"><a href="{{ .Site.BaseURL }}#">Valve FIP</a>

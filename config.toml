@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://pipaindustri.com/"
 languageCode = "en-us"
 title = "Pipa Industri"
 disableKinds = "RSS"
