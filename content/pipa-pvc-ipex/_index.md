@@ -5,7 +5,7 @@ draft: false
 layout: "single"
 ---
 
-#original brosur
+# original brosur
 Xirtec&reg;140 PVC Schedule 40 & 80 didesain untuk memenuhi standard temperatur, tekanan dan aliran pada sistem perpipaan proses kimia dan berbagai aplikasi industri lainnya. Aplikasi lainnya termasuk: WWTP, pertambangan, industri makanan, sistem irigasi, farmasi, kolam renang, dan lain-lain.
 
 IPEX menghadirkan salah satu pipa thermoplastic dengan variasi luas untuk aplikasi industrial. Tersedia dalam standard Schedule 40 dan Schedule 80 dengan ukuran mulai dari 1/4" hingga 24", pipa IPEX dapat memenuhi kualifikasi yang dibutuhkan sesuai dengan berbagai standard seperti ASTM, AWWA, CSA dan NSF.

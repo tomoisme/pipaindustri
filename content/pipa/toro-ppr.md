@@ -1,11 +1,11 @@
 ---
 title: "Pipa PPR Toro"
-date: 2018-08-03T22:27:32+07:00
+date: 2018-10-11T19:37:30+07:00
 draft: false
 layout: "single"
 ---
 
-##original brosur
+## original brosur
 
 Pipa dan fitting PPR Toro 25 memiliki berbagai fungsi mulai dari sistem perpipaan air bersih panas/dingin bertekanan, air buangan, cairan kimia, dll. Cocok untuk digunakan di bangunan sipil (apartemen, kondominium, rumah sakit, sekolah, dll), bangunan komersil (hotel, restoran, kolam renang, mall, perkantoran, dll) hingga untuk bangunan industrial (pabrik & HVAC) baik untuk proyek konstruksi baru maupun untuk renovasi.
 
@@ -23,6 +23,3 @@ Semua material dari plastik merupakan insulator thermal yang baik, karena itu pu
 Tidak seperti pipa logam, pipa PPR tidak dapat menghantarkan listrik sehingga aman terhadap resiko setrum.
 
 Pipa dan fitting PPR Toro sangat mudah dipasang dan disambungkan satu sama lainnya. Karena sifat materialnya yang ringan dan mudah ditangangi dengan cara heat fusion (proses pengelasan/pemanasan). Hal ini dapat menghemat waktu instalasi hingga 40-50%. Selain mudah dipasang, kekuatan sambungan pipa PPR juga sangat baik karena hasil akhir dari proses pengelasan merupakan sambungan yang homogen, benar-benar menyatu, tidak seperti pada proses penyambungan dengan lem yang hanya merekatkan bukan menyatukan.
-
-
-
