@@ -1,0 +1,61 @@
+[debug] [2018-10-31T14:31:11.320Z] ----------------------------------------------------------------------
+[debug] [2018-10-31T14:31:11.320Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Tomo\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2018-10-31T14:31:11.320Z] CLI Version:   3.18.5
+[debug] [2018-10-31T14:31:11.320Z] Platform:      win32
+[debug] [2018-10-31T14:31:11.320Z] Node Version:  v8.9.0
+[debug] [2018-10-31T14:31:11.320Z] Time:          Wed Oct 31 2018 21:31:11 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-10-31T14:31:11.320Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-10-31T14:31:11.335Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-10-31T14:31:11.335Z] > authorizing via signed-in user
+[debug] [2018-10-31T14:31:11.351Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2018-10-31T14:31:11.351Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ { refresh_token: '1/DzqCskoxez-gxs8Gvu0nqfs_4XeYg3k7NP4cI1gL5fY',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Wed Oct 31 2018 21:31:11 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-10-31T14:31:11.814Z] <<< HTTP RESPONSE 200
+[debug] [2018-10-31T14:31:11.814Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/pipa-industri  
+  
+ Wed Oct 31 2018 21:31:11 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-10-31T14:31:13.170Z] <<< HTTP RESPONSE 200
+[debug] [2018-10-31T14:31:13.171Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/pipa-industri/tokens  
+  
+ Wed Oct 31 2018 21:31:13 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-10-31T14:31:14.197Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'pipa-industri'...
+[info] 
+[info] i  deploying hosting
+[info] i  hosting: preparing public directory for upload...
+[debug] [2018-10-31T14:31:18.611Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/pipa-industri/uploads/-LQ9XGzLH3lKNyHCQ2dB?fileCount=169&message=  
+  
+ Wed Oct 31 2018 21:31:18 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-10-31T14:46:03.728Z] ----------------------------------------------------------------------
+[debug] [2018-10-31T14:46:03.731Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Tomo\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2018-10-31T14:46:03.731Z] CLI Version:   3.18.5
+[debug] [2018-10-31T14:46:03.731Z] Platform:      win32
+[debug] [2018-10-31T14:46:03.731Z] Node Version:  v8.9.0
+[debug] [2018-10-31T14:46:03.732Z] Time:          Wed Oct 31 2018 21:46:03 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-10-31T14:46:03.732Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-10-31T14:46:03.744Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-10-31T14:46:03.744Z] > authorizing via signed-in user
+[debug] [2018-10-31T14:46:03.746Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/pipa-industri  
+  
+ Wed Oct 31 2018 21:46:03 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-10-31T14:46:05.051Z] <<< HTTP RESPONSE 200
+[debug] [2018-10-31T14:46:05.052Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/pipa-industri/tokens  
+  
+ Wed Oct 31 2018 21:46:05 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-10-31T14:46:05.922Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'pipa-industri'...
+[info] 
+[info] i  deploying hosting
+[info] i  hosting: preparing public directory for upload...
+[debug] [2018-10-31T14:46:09.475Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/pipa-industri/uploads/-LQ9_fVfseJpDwO_EBEy?fileCount=169&message=  
+  
+ Wed Oct 31 2018 21:46:09 GMT+0700 (SE Asia Standard Time)
