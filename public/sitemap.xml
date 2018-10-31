@@ -38,17 +38,17 @@
   </url>
   
   <url>
-    <loc>https://pipaindustri.com/sertifikat/toro/</loc>
+    <loc>https://pipaindustri.com/download/toro/</loc>
     <lastmod>2018-10-07T20:33:01+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pipaindustri.com/sertifikat/fip/</loc>
+    <loc>https://pipaindustri.com/download/fip/</loc>
     <lastmod>2018-10-07T20:32:46+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pipaindustri.com/sertifikat/ipex/</loc>
+    <loc>https://pipaindustri.com/download/ipex/</loc>
     <lastmod>2018-08-03T22:38:12+07:00</lastmod>
   </url>
   
@@ -58,18 +58,8 @@
   </url>
   
   <url>
-    <loc>https://pipaindustri.com/pipa/ipex-cpvc/</loc>
-    <lastmod>2018-07-26T18:56:06+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pipaindustri.com/pipa/ipex/</loc>
     <lastmod>2018-07-26T18:56:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pipaindustri.com/pipa/ipex-pvc/</loc>
-    <lastmod>2018-07-26T18:55:53+07:00</lastmod>
   </url>
   
   <url>
@@ -93,14 +83,14 @@
   </url>
   
   <url>
-    <loc>https://pipaindustri.com/pipa/</loc>
-    <lastmod>2018-10-11T19:37:30+07:00</lastmod>
+    <loc>https://pipaindustri.com/download/</loc>
+    <lastmod>2018-10-07T20:33:01+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pipaindustri.com/sertifikat/</loc>
-    <lastmod>2018-10-07T20:33:01+07:00</lastmod>
+    <loc>https://pipaindustri.com/pipa/</loc>
+    <lastmod>2018-10-11T19:37:30+07:00</lastmod>
     <priority>0</priority>
   </url>
   
